@@ -2,3 +2,17 @@ body
 {
     background-color: black;
 }
+h1
+{
+    border: 3px blue solid;
+    margin: auto;
+    padding: auto;
+}
+h1
+{
+    text-align: center;
+}
+h2, p
+{
+    text-decoration: overline;
+}
