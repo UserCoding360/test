@@ -1,10 +1,10 @@
 body
 {
-    background-color: black;
+    background-color: #b3b3b3;
 }
 h1
 {
-    border: 3px blue solid;
+    border: 3px black solid;
     margin: auto;
     padding: auto;
 }
@@ -12,7 +12,9 @@ h1
 {
     text-align: center;
 }
-h2, p
+.class
 {
-    text-decoration: overline;
+    border: black solid 3px;   
+    margin: auto;
+    padding: auto;   
 }
